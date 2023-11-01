@@ -1,3 +1,5 @@
-function isValidBST(root) {}
+function isValidBST(root) {
+    
+}
 
 module.exports = isValidBST;
